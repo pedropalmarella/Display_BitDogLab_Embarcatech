@@ -36,7 +36,8 @@ Este projeto implementa diversas funcionalidades utilizando o microcontrolador R
   - **LEDs RGB comuns**
   - **Botões físicos**
   
-### Como Usar
+## Como Usar
+
 Entrada de Caracteres:
 
 - **Abra o Serial Monitor no VS Code**.
