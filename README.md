@@ -1,6 +1,7 @@
 # Projeto: Interação com PC, Botões e LEDs no RP2040
 
 Este projeto implementa diversas funcionalidades utilizando o microcontrolador RP2040, explorando **entrada de caracteres via PC**, **interação com botões físicos**, e **controle de LEDs e displays**. As funcionalidades incluem entrada de caracteres pelo **Serial Monitor**, exibição em um **display SSD1306**, controle de **LEDs RGB** e uma matriz **WS2812**. Todas as interações com botões são gerenciadas com interrupções e tratamento de bouncing via software, foram utilizadas as comunicações UART e I2C.
+## Vídeo do projeto: https://www.youtube.com/watch?v=iP5eQt245V0
 
 ## Funcionalidades
 
